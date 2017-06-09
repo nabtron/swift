@@ -10,3 +10,4 @@
             }
         }.resume()
         
+// also an example at: https://www.raywenderlich.com/147086/alamofire-tutorial-getting-started-2
