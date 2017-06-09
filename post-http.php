@@ -11,3 +11,4 @@
         }.resume()
         
 // also an example at: https://www.raywenderlich.com/147086/alamofire-tutorial-getting-started-2
+// reading material: https://developer.apple.com/documentation/foundation/urlsession/1407613-datatask
